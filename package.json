@@ -1,0 +1,26 @@
+{
+  "name": "@nieshixiong/stylelint-prettier-demo",
+  "version": "1.0.0",
+  "description": "让项目当中的样式文件保持一致的样式规范的配置",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hotbearnie/stylelint-prettier-demo"
+  },
+  "keywords": [
+    "stylelint",
+    "prettier"
+  ],
+  "author": "nieshixiong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hotbearnie/stylelint-prettier-demo/issues"
+  },
+  "homepage": "https://github.com/hotbearnie/stylelint-prettier-demo#readme",
+  "devDependencies": {
+    "prettier": "^2.3.0",
+    "stylelint": "^13.13.1",
+    "stylelint-config-prettier": "^8.0.2",
+    "stylelint-prettier": "^1.2.0"
+  }
+}
